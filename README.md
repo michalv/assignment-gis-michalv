@@ -20,8 +20,15 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 Fork this repository and fill in (either in English, or in Slovak):
 
-**Application description**: `<fill in>`
+**Application description**: 
 
-**Data source**: `<fill in>`
+Showing hiking roads on the map. Hiking roads are color-coded by real color marking. The user can define hiking road from start to finish and choose difficulty and points of interest on the route (e.g. rocks, forest, river, lakes, etc.).
 
-**Technologies used**: `<fill in>`
+**Data source**: 
+
+- [Open Street Maps](https://www.openstreetmap.org/)
+
+**Technologies used**: 
+
+- MapBox SDK - web application
+- PostGis
